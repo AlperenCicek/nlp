@@ -1,2 +1,2 @@
 # nlp
-Codes and practice of Natural Language Processing lesson.
+Codes and practice of Natural Language Processing.
